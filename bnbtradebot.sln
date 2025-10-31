@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bnbtradebot", "bnbtradebot.csproj", "{CD6B1A0C-CF0A-4D73-BAD3-A9E6CAA851CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD6B1A0C-CF0A-4D73-BAD3-A9E6CAA851CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6B1A0C-CF0A-4D73-BAD3-A9E6CAA851CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6B1A0C-CF0A-4D73-BAD3-A9E6CAA851CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6B1A0C-CF0A-4D73-BAD3-A9E6CAA851CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {795E678F-6791-4371-A7C6-265092E04F1E}
+	EndGlobalSection
+EndGlobal
